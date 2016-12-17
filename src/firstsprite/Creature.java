@@ -30,7 +30,7 @@ public class Creature {
     }
 
     private void initCreature() {
-        ImageIcon ii = new ImageIcon("/Users/Michael/Jobs/firstSprite/src/firstsprite/resources/alien.gif");
+        ImageIcon ii = new ImageIcon("/Users/Michael/Jobs/firstSprite/src/firstsprite/resources/mill.png");
         image = ii.getImage();
         
         myTerrain = new terrain();
